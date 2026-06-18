@@ -173,9 +173,3 @@ See [`output.md`](./output.md) for a complete run on the topic *"2026 FIFA World
 ## ⚠️ Security Note
 
 The `.env` file containing API keys was committed to git history in early commits. While `.gitignore` now excludes `.env`, the keys remain in the repository's history. Rotate any exposed keys immediately.
-
----
-
-## 📄 License
-
-MIT
